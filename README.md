@@ -1,1 +1,25 @@
-nah i'd win
+# Greetings!
+
+- 3D designer and game developer (and a fraud)
+- video editing, motion design, VFX, 3DCG — in other words, I'm an artist! feel free to take a look at my works [here](https://sketchfab.com/antokkk) & [here](https://x.com/Antokkk7) or even [here](https://www.youtube.com/@nwantok950/videos)
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antokkk7&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=Antokkk7&color=d93a7c)
+
+<!--
+**Antokkk7/Antokkk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
