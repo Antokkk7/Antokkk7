@@ -1,9 +1,19 @@
 # Greetings!
 
 - I'm a 3D designer, a full stack developer, and a game developer, <b>but first and foremost a gacha enjoyer !</b>
-- You can find some of my videos, 3DCG and motion design [on youtube](https://www.youtube.com/@nwantok950/videos) & [here on Twitter](https://x.com/Antokkk7)  
-- I'm also a 3D artist so feel free to take a look at my works [here on Sketchfab](https://sketchfab.com/antokkk)
-- As for the games, you can find them [on Scratch](https://scratch.mit.edu/users/Antokukuku/) or in [this repository](https://github.com/Antokkk7/Jeux)
+
+- You can find some of my videos, 3DCG and motion design 
+  <a href="https://www.youtube.com/@nwantok950/videos" target="_blank" rel="noopener noreferrer">on YouTube</a>
+  & 
+  <a href="https://x.com/Antokkk7" target="_blank" rel="noopener noreferrer">here on Twitter</a>
+
+- I'm also a 3D artist so feel free to take a look at my works
+  <a href="https://sketchfab.com/antokkk" target="_blank" rel="noopener noreferrer">here on Sketchfab</a>
+
+- As for the games, you can find them 
+  <a href="https://scratch.mit.edu/users/Antokukuku/" target="_blank" rel="noopener noreferrer">on Scratch</a>
+  or in 
+  <a href="https://github.com/Antokkk7/Jeux" target="_blank" rel="noopener noreferrer">this repository</a>
 
 ---
 
