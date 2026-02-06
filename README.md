@@ -10,7 +10,7 @@
 
 <i>Looking for more about me ? Better take a look at this then :</i>\
 </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antokkk7&show_icons=true&theme=radical)
+<!--   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antokkk7&show_icons=true&theme=radical) -->
 
 ![](https://komarev.com/ghpvc/?username=Antokkk7&color=d93a7c)
 
