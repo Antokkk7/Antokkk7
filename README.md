@@ -8,6 +8,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antokkk7&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+
+---
+
 <i>Looking for more about me ? Better take a look at this then :</i>\
 </br>
 <!--   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antokkk7&show_icons=true&theme=radical) -->
