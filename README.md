@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,cs,dotnet,php,python,kotlin,html,css,bash,docker,blender,unity,unrealengine,git,github,vscode&theme=dark&perline=6" alt="Stack technique"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,cs,dotnet,php,python,html,css,bash,docker,blender,unity,unrealengine,git,github,vscode&theme=dark&perline=6" alt="Stack technique"/>
 
 <br/><br/>
 
